@@ -10,5 +10,6 @@ public class CiApplication {
 		System.out.println("dd");
 		System.out.println("sss");
 		SpringApplication.run(CiApplication.class, args);
+		String sd = "String";
 	}
 }

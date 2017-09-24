@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CiApplication {
 
 	public static void main(String[] args) {
+		System.out.println("dd");
 		SpringApplication.run(CiApplication.class, args);
 	}
 }
